@@ -1,0 +1,2 @@
+Video Sub Mode, Test Case id, Expected Result( Height x Width / Fps ), Actual Result( Height x Width / Fps ), Low light, Spot Meter, Protune, Result, Remarks, Encoded Files
+VIDEO, T12345708, 1920 x 1440 / 48, 1920 x 1440 / 47, OFF, OFF, Y, PASS, , 
